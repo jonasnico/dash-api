@@ -1,0 +1,17 @@
+# Docker ignore file for Ktor application
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+*.iml
+.idea/
+.vscode/
+*.log
+.env
+.env.local
+.env.production
+README.md
+Dockerfile
+.dockerignore
+

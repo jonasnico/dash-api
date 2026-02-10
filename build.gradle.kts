@@ -5,9 +5,9 @@ val kotlinx_coroutines_version: String by project
 val kotlinx_serialization_version: String by project
 
 plugins {
-    kotlin("jvm") version "2.3.0"
-    id("io.ktor.plugin") version "3.3.3"
-    id("org.jetbrains.kotlin.plugin.serialization") version "2.3.0"
+    kotlin("jvm") version "2.3.10"
+    id("io.ktor.plugin") version "3.4.0"
+    id("org.jetbrains.kotlin.plugin.serialization") version "2.3.10"
 }
 
 group = "com.dash"
